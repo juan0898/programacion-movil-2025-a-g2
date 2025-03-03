@@ -1,4 +1,4 @@
-# Adecuacion de Trello
+# Adecuación de Trello
 
 En este espacio se muestra la configuración de Trello.
 
