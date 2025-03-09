@@ -1,0 +1,5 @@
+- Trello: https://trello.com/invite/b/67c6fbddb60acb7cddd83694/ATTI7ece23e082b408dcbf1187472e68f6aeE2421164/gestion-y-contro-de-vuelos
+
+- Figma: https://www.figma.com/design/8Kv5UMjgEkp68JnRfs6Lc5/Aeropuerto?node-id=0-1&t=k4zpI1Hw8HJN0lex-1
+
+- Repositorio Git: https://github.com/juan0898/programacion-movil-2025-a-g2.git 
